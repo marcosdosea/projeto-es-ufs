@@ -1,1 +1,5 @@
-Alterando
+public class GerenciadorCliente{
+int i ;
+
+
+}
