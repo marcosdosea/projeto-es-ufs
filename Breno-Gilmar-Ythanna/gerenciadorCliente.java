@@ -4,6 +4,10 @@ public class GerenciadorCliente
 	{
 		System.out.print("Alterei Aqui!!");
 	}
+
+	public void atualizar(){
+		// Método Atualizar
+	}
 	
 	public void inserir(string nomeCliente)
 	{
