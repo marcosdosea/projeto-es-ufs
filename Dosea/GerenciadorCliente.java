@@ -1,5 +1,6 @@
 public class GerenciadorCliente {
 
-	void inserir() {
+	void atualizar() {
 	}
-}
+	void inserir() {
+	}}
