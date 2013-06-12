@@ -8,5 +8,9 @@ public class Gerenciador Cliente{
 	
 	
 	}
+
+	public void atualizaCliente (Cliente cliente){
+	
+}
 	
 }
