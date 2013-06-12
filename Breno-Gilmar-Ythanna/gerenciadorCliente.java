@@ -5,8 +5,8 @@ public class GerenciadorCliente
 		System.out.print("Alterei Aqui!!");
 	}
 	
-	public void inserir(string cliente)
+	public void inserir(string nomeCliente)
 	{
-		
+			
 	}
 }
