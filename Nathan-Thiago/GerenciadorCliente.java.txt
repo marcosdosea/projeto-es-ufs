@@ -1,1 +1,2 @@
-Alterando
+public class GerenciadorCliente(){
+}
