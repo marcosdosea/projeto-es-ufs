@@ -1,12 +1,11 @@
 public class {
 	
 	void inserir(){
+
 	}
 
+	void atualizar(){
 
-}
-
-
-void atualizar(){
+	}
 
 }
