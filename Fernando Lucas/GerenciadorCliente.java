@@ -4,4 +4,9 @@ public class Gerenciador Cliente{
 	
 	}
 	
+	public void insereCliente(Cliente cliente){
+	
+	
+	}
+	
 }
