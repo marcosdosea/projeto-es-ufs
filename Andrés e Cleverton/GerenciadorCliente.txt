@@ -1,4 +1,4 @@
-public AcitonResult Inserir(int a) {
-	a = 22;
-	return ViewResult("Index", "Home");
+public ActionLink inserir(int b) {
+	b = 33;
+	return b;
 }
