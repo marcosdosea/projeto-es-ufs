@@ -5,7 +5,7 @@ public class gerenciadorCliente{
 		this.cliente = nomeCliente;
 	}
 	
-	public void setCliente(String name){
+	public void atualizar(String name){
 		cliente = name;
 	}
 }
