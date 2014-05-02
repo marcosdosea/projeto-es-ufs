@@ -1,0 +1,4 @@
+public AcitonResult Inserir(int a) {
+	a = 22;
+	return ViewResult("Index", "Home");
+}
