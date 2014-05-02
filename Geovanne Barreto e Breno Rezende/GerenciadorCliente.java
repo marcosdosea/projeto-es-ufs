@@ -2,7 +2,7 @@ import com.sun.xml.internal.ws.api.ha.StickyFeature;
 
 public class gerenciadorCliente{
 
-	private String nomeCliente = null
+	private String nomeCliente = null;
 		
 	public void inserir(String nomeCliente){
 	
@@ -13,6 +13,10 @@ public class gerenciadorCliente{
 		
 		this.nomeCliente = nomeCliente;
 		
+	}
+	
+	public String getNomeCliente(){
+		return this.nomeCliente;
 	}
 	
 }
