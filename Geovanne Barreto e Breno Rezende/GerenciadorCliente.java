@@ -4,4 +4,8 @@ public class gerenciadorCliente{
 	
 	}
 	
+	public void atualizar{
+		
+	}
+	
 }
