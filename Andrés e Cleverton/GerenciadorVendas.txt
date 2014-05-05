@@ -1,4 +1,4 @@
-public string getCliente() {
+public int valor (){
 	string = null;
 	int a = 4;
 	b = 6;
