@@ -1,3 +1,6 @@
+public int getpagamento() {
+	return 45;
+}
 public int valor (int x){
 	int y = x;
 	return y;
