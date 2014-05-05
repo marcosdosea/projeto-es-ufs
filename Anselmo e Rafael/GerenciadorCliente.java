@@ -1,15 +1,22 @@
 public class gerenciadorCliente{
 	String cliente = null;
-
-	public void inserir(String nomeCliente){
+	String sobrenome = null;
+	
+	public void inserir(String nomeCliente, String sobrenomeCliente){
 		this.cliente = nomeCliente;
+		this.sobrenome = sobrenomeCliente;
 	}
 	
-	public void atualizar(String name){
-		cliente = name;
+	public void atualizar(String name, String sobrenome){
+		this.cliente = name;
+		this.sobrenome = sobrenome;
 	}
 	
 	public String getCliente(){
-		return cliente;
+		return this.cliente;
+	}
+	
+	public String getSobrenome(){
+		return this.sobrenome;
 	}
 }
