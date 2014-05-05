@@ -5,7 +5,6 @@ public class gerenciadorCliente{
 		return cliente;
 	}
 	public void setCliente(String name){
-	    int x = 0;
 		cliente = name;
 	}
 	
