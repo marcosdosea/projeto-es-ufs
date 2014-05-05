@@ -1,4 +1,6 @@
 public ActionLink inserir(int b) {
-	b = 33;
+	if (b >= 0) {
+	    b = 4 - 2;
+	}
 	return b;
 }
