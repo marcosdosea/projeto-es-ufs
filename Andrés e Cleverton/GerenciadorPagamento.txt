@@ -1,0 +1,4 @@
+public int valor (int x){
+	int y = x;
+	return y;
+}
