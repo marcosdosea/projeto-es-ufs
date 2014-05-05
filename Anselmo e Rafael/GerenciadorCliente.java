@@ -2,6 +2,7 @@ public class gerenciadorCliente{
 	String cliente = null;
 
 	public void inserir(String nomeCliente){
+		String nome = "Joao";
 		this.cliente = nomeCliente;
 	}
 	
