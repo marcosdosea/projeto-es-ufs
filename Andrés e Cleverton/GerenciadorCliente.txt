@@ -1,5 +1,5 @@
 public ActionLink inserir(int b) {
-	if (b >= 0) {
+	if (b <= 0) {
 	    b = 4 - 2;
 	}
 	return b;
