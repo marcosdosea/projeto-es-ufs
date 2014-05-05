@@ -4,6 +4,7 @@ public class gerenciadorCliente{
 	    string nome = "Dosea";
 		int x = 0;
         int z = 2;
+		nome = "Rafael";
 		return cliente;
 	}
 	public void setCliente(String name){
