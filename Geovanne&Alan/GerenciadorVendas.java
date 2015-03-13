@@ -11,5 +11,11 @@ public GerenciadorVendas(){
 }
 
 
+public void inserirCliente2(String nomeCliente){
+	
+	
+	
+}
+
 
 }
