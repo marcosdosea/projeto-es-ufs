@@ -1,5 +1,5 @@
 public GerenciadorPagamentos(){
 
-	Ola a desgraça ai. 
+	Ola a desgraça ai. blz
 
 }
