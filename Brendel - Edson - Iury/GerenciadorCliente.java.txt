@@ -5,8 +5,12 @@ public class GerenciadorCliente
 	public void Inserir()
 	{
 	}
-	public boolean atualizar()
+	public boolean atualizar(Usuario usuario)
 	{
+		if (usuario)
+		{
+			return true;
+		}
 		return false;	
 	}
 
