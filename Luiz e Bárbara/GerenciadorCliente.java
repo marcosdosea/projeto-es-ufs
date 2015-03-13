@@ -3,6 +3,7 @@ public class GerenciadorCliente{
 
    }
    public String atualizar(String nome){
+     return nome;
 
    }
 }
