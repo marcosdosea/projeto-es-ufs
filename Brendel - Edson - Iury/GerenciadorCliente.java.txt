@@ -6,6 +6,8 @@ public class GerenciadorCliente
 	{
 		//Este metodo estava errado
 	}
+
+	//destinado a atulizar os dados do usuario
 	public boolean atualizar(Usuario usuario)
 	{
 		if (usuario)
