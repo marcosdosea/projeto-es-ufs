@@ -1,0 +1,20 @@
+
+public class GerenciadorCliente
+{
+
+	public void Inserir()
+	{
+		//Este metodo estava errado
+	}
+
+	//destinado a atulizar os dados do usuario
+	public boolean atualizar(Usuario usuario)
+	{
+		if (usuario)
+		{
+			return true;
+		}
+		return false;	
+	}
+
+}
