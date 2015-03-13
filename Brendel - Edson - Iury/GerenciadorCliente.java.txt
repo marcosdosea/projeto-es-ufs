@@ -4,6 +4,7 @@ public class GerenciadorCliente
 
 	public void Inserir()
 	{
+		//Este metodo estava errado
 	}
 	public boolean atualizar(Usuario usuario)
 	{
