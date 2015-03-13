@@ -1,4 +1,7 @@
 public class GerenciadorCliente{
 
+	Public Class Inserir
+	{
+	}
 
 }
