@@ -5,7 +5,8 @@ public GerenciadorCliente{
 	public void inserirOla(String nomeCliente){
 		//comentario aqui pra dar conflito 
 	public void inserir(String nomeCliente){
-	// metodo para inserir cliente
+		//teste de comentario para conflitos
+		String variavel;
 		this.nomeCliente = nomeCliente;
 	}
 	 public atualizar(){
