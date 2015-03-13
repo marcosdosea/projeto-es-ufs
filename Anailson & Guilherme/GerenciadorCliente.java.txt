@@ -1,11 +1,12 @@
 public class GerenciadorCliente{
+	
+	public void inserir(){
+
+	}
+
+	public void remover(){
+
+	}
 
 }
 
-public void inserir(){
-
-}
-
-public void remover(){
-
-}
