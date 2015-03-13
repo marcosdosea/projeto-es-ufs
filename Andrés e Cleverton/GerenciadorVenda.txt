@@ -3,3 +3,4 @@ public int valor (){
 	int a = 4;
 	b = 6;
 }
+alterado
