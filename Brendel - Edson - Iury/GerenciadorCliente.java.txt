@@ -1,7 +1,13 @@
-public class GerenciadorCliente{
 
-	Public Class Inserir
+public class GerenciadorCliente
+{
+
+	public void Inserir()
 	{
+	}
+	public boolean atualizar()
+	{
+		return false;	
 	}
 
 }
