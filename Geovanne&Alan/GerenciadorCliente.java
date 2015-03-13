@@ -13,6 +13,12 @@ public GerenciadorCliente{
 		 string nome;
 		 
 	 }
+	 
+	 plubic void(){
+		 
+		 //teste ola 
+		 
+	 }
 		
 	
 	
