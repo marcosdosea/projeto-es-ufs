@@ -2,8 +2,8 @@ public GerenciadorCliente{
 	
 	private String nomeCliente = null;
 	
-	public void inserir (String nomeCliente){
-
+	public void inserirOla(String nomeCliente){
+		
 	
 		this.nomeCliente = nomeCliente;
 	}
