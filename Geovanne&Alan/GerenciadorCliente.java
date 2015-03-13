@@ -1,6 +1,12 @@
 public GerenciadorCliente{
 	
-		String Alan, Geovanne;
+	private String nomeCliente = null;
+		
+	public void inserir(String nomeCliente){
+	
+		this.nomeCliente = nomeCliente;
+	}
+	
 		
 	
 	
