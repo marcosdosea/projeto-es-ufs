@@ -1,6 +1,6 @@
 public class GerenciadorCliente {
 	public void inserir(Cliente cliente){
-		// adiciona um novo cliente
+		// adiciona um novo cliente na base
 		clientes.add(nomeCliente);
 	}
 
