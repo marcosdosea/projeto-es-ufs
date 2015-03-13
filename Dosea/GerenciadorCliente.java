@@ -6,6 +6,13 @@ public class GerenciadorCliente {
 
 	//Metodo destinado a atualizar o cliente
 	public boolean atualizar(Cliente cliente) {
+		for(Cliente c: clientes){
+		  if(c.id = cliente.id){
+		     c = cliente;
+			return true;
+		  }
+		
+		}
 		return false;
 	}
 
