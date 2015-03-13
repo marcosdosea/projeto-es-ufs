@@ -7,9 +7,9 @@ public GerenciadorCliente{
 	
 		this.nomeCliente = nomeCliente;
 	}
-	 public inserircliente2(){
+	 public inserircliente2 (){
 		 
-		 
+		 string nome;
 		 
 	 }
 		
