@@ -13,7 +13,7 @@ public class GerenciadorCliente {
 		  }
 		
 		}
-		return false;
+		return true;
 	}
 
 }
