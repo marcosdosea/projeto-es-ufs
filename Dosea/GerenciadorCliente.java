@@ -1,11 +1,11 @@
 public class GerenciadorCliente {
 	public void inserir(Cliente cliente){
-		clientes.add(cliente);
+		// adiciona um novo cliente
+		clientes.add(nomeCliente);
 	}
 
 	//Metodo destinado a atualizar o cliente
 	public boolean atualizar(Cliente cliente) {
-
 		return false;
 	}
 
