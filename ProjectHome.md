@@ -1,0 +1,1 @@
+Esse é apenas uma exemplo para que os alunos da disciplina de Engenharia de software possam aplicar os conceitos de gerência de configuração em um ambiente real.
